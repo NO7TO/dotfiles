@@ -1,0 +1,26 @@
+: nvim
+: shell
+$ ed draw_img 
+: zsh
+: q
+: q
+: mkdir
+: q
+: q
+: q
+: q
+: q
+: map <c-c> cp
+: q
+: a
+: q
+: q
+: q
+: q
+$ ed 
+: q
+: q
+: cmd shell
+: q
+: q
+: q
